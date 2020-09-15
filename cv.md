@@ -9,8 +9,8 @@
 
 #### About Me
 
-*Hello friends, my goal is to become a front-end developer,
-I am quick to learn what I like and I am very interested in writing code. Now I strive to learn JS as much as possible, and despite being very busy at my main job, I will devote the maximum time to learning the language despite being tired after work.*
+Hello friends, my goal is to become a front-end developer,
+I am quick to learn what I like and I am very interested in writing code. Now I strive to learn JS as much as possible, and despite being very busy at my main job, I will devote the maximum time to learning the language despite being tired after work.
 
 #### Skills
 
