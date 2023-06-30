@@ -1,6 +1,6 @@
 ### Roman Bombizov  
 
-
+<img src="https://sun9-19.userapi.com/impg/Fmk4RYwPDP_Erd8P203b4fsttbTfr_wpdgA0nA/-4kk_h90N3g.jpg?size=814x1080&quality=95&sign=3d5c863f2310a4cdc4a018831e1f8e0b&type=album" alt="drawing" width="200"/>
 
 ---
 
