@@ -194,3 +194,13 @@ body {
 .code-content {
     padding-top: 30px;
 }
+
+.project {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+}
+
+.project-content {
+    padding-top: 30px;
+}
