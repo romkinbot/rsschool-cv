@@ -224,3 +224,21 @@ body {
 .english-content {
     padding-top: 30px;
 }
+
+
+.footer {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-git {
+    display: flex;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+
+.footer-git-ears {
+    padding-right: 10px;
+}
