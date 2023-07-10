@@ -174,3 +174,13 @@ body {
 .summary-content {
     padding-top: 30px;
 }
+
+.skils {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+}
+
+.skils-content {
+    padding-top: 30px;
+}
