@@ -114,3 +114,53 @@ body {
 .header-photo {
     border-radius: 10px;
 }
+
+.contacts {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+}
+
+.contacts-title {
+    padding-bottom: 20px;
+}
+
+.email {
+    font-weight: 500;
+}
+
+.email:hover {
+    font-weight: 400;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(141, 123, 89);
+}
+
+.vk {
+    font-weight: 500;
+}
+
+.vk:hover {
+    font-weight: 400;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(141, 123, 89);
+}
+
+.discord {
+    font-weight: 500;
+}
+
+.discord:hover {
+    font-weight: 400;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(141, 123, 89);
+}
+
+.githab {
+    font-weight: 500;
+}
+
+.githab:hover {
+    font-weight: 400;
+    color: black;
+    text-shadow: 1px 1px 2px rgb(141, 123, 89);
+}
