@@ -184,3 +184,13 @@ body {
 .skils-content {
     padding-top: 30px;
 }
+
+.code {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+}
+
+.code-content {
+    padding-top: 30px;
+}
